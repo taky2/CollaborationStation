@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_refresh.png",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_share.png",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_refresh.png",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_drawer.png",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_share.png",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_copy.png",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/drawable-hdpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_copy.png",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/drawable-hdpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_drawer.png",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    }
+]

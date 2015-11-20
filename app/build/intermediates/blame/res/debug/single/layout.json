@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/layout/fragment_chat.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/layout/fragment_todo.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/layout/fragment_todo.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/layout/fragment_chat.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/layout/listview_item_row.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/layout/listview_item_row.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/layout/fragment_help.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/layout/fragment_help.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/layout/fragment_todo.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/layout/fragment_todo.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/CollaborationStation/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/layout/listview_item_row.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/layout/listview_item_row.xml"
+    },
+    {
+        "merged": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/build/intermediates/res/merged/debug/layout/fragment_help.xml",
+        "source": "/Users/kyma/AndroidStudioProjects/NavigationDrawerExample1/app/src/main/res/layout/fragment_help.xml"
+    }
+]
